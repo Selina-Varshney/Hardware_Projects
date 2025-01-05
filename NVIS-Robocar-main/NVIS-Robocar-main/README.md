@@ -1,5 +1,5 @@
 # NVIS-Robocar (Buggy)
--by Selina Varshney
+
 
 This project aimed at creating a line follower buggy robot, which would follow a track equipped with 3 gantries. The buggy would stop at each gantry and finally at the end of the track. This was a group project where I learned how to design a transmitter, receiver and IR sensor module using Autodesk Eagle and then soldered all components onto the breadboard to create each circuit. These were then attached to the buggy. We then wrote an arduino code to move the buggy in our own specified directions  like left, right, forward, backward, clockwise and anti clockwise by setting the pins 5, 6, 7, 8 on Nvis 3302ARD RoboCar accordingly to either high or low as per the logic required. 
 
